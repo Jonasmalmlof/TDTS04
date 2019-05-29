@@ -11,7 +11,7 @@ Questions and answers.
 
 ## Assignment 2:  
 Net Ninny Proxy Server. A simple firewall to remove access to websites that have specific keywords in either the URL or in text on the website.  
-Read [usermanual.txt](\'assignment 2 - Ruby\'/usermanual.txt) for more information.
+Read [usermanual.txt](assignment%202%20-%20Ruby/usermanual.txt) for more information.
 
 ## Assignment 3:  
 More questions and answers.
